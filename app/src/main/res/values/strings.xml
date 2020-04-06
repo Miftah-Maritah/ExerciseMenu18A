@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exercise Menu 18A</string>
+    <string name="login_user">LOGIN USER</string>
+    <string name="usernamen">Masukan Usernamen</string>
+    <string name="password">Masukan Password</string>
+    <string name="usernamen1">Usernamen</string>
+    <string name="password1">Password</string>
+</resources>
